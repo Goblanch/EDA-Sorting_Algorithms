@@ -23,3 +23,9 @@ add_executable(BubbleSortMejorado
         OptimizedBubbleSort/main.cpp
 )
 target_link_libraries(BubbleSortMejorado PRIVATE Common)
+
+add_executable(CocktailSort
+        CocktailSort/main.cpp
+)
+
+target_link_libraries(CocktailSort PRIVATE Common)
