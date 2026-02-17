@@ -26,7 +26,7 @@ para garantizar que toda la lista está ordenada.
 ---
 
 ## 3) Diagrama de flujo
-<img src="../img/bubbleSortDiagramDark.png">
+<img src="../img/bubbleSortDiagramDarkTransparente.png">
 ---
 
 ## 4) Pseudocódigo
