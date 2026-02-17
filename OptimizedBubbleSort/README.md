@@ -32,9 +32,8 @@ sin hacer más pasadas.
 ---
 
 ## 3) Diagrama de Flujo
-<p align="center">
-    <img src="../img/OptimizedBubbleSortTransparente.png">
-</p>
+
+<img src="../img/OptimizedBubbleSortTransparente.png">
 
 ---
 
