@@ -29,3 +29,9 @@ add_executable(CocktailSort
 )
 
 target_link_libraries(CocktailSort PRIVATE Common)
+
+add_executable(SelectionSort
+    SelectionSort/main.cpp
+)
+
+target_link_libraries(SelectionSort PRIVATE Common)
