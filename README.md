@@ -29,6 +29,9 @@ A continuación se presenta la lista de algoritmos de ordenación disponibles en
 
 - [**BubbleSort** (Ordenación por Burbuja)](./BubbleSort/)
 - [**OptimizedBubbleSort** (Ordenación por Burbuja Optimizada)](./OptimizedBubbleSort/)
+- [**CocktailSort** (Ordenación Cocktail)](./CocktailSort/)
+- [**InsertionSort** (Ordenación por Inserción)](./InsertionSort/)
+- [**SelectionSort** (Ordenación por Selección)](./SelectionSort/)
 
 ## 🚀 Cómo Usar
 
