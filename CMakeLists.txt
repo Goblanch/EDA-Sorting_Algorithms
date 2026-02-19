@@ -35,3 +35,9 @@ add_executable(SelectionSort
 )
 
 target_link_libraries(SelectionSort PRIVATE Common)
+
+add_executable(InsertionSort
+    InsertionSort/main.cpp
+)
+
+target_link_libraries(InsertionSort PRIVATE Common)
