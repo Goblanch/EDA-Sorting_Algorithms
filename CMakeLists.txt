@@ -41,3 +41,6 @@ add_executable(InsertionSort
 )
 
 target_link_libraries(InsertionSort PRIVATE Common)
+
+add_executable(MergeSort MergeSort/main.cpp)
+target_link_libraries(MergeSort PRIVATE Common)
