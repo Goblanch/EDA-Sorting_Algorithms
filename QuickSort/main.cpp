@@ -5,7 +5,7 @@
 
 static int partition(std::vector<int>& v, int l, int r) {
     int pivot = v[r];   // pivote: último elemento
-    int i = l - 1; // i corresponde a la última posición dónde se colocó un elemento ordenado
+    int i = l - 1;
 
     for (int j = l; j < r; j++) { // Recorre todos los elementos desde la izquierda (l) hasta uno antes del pivote
         if (v[j] <= pivot) {
